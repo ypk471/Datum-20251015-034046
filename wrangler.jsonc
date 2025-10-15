@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-datum-document-track-4a357f71-528d-43af-960c-4953fcfcf151",
+	"name": "20251015-034046",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
